@@ -10,7 +10,8 @@ git:
 script:
   - yarn build
 notifications:
-  slack: claseslaboratoria:fPmbi82fDSRE3avWKiwEtaKq
+  slack:
+    secure: "B4w3OCyLleA6emXvnqCbMaaFt7okpy6ovj58PKEj03uiFZxSlvAYvEwI8q4EvNJg3AoL34Y1/RwSo3V6EYgZwLgwBtt+eDSfMgQ9oVnhbLuF2KUq9DNg4dalCx5kOvTPiAiGFRwMedPFbJAMRFSaj1yzxGnD4MrDFFWUxQ6PLCqWFnyuxeY8pTTTerGHsDvUeFvPHKslD5LkKHjScPC3IH45EApKojgLfYGSrO7+ZTrDxms7ZncK55ewYH4Mu6cNewpqrI+f5+Qt3gDj3W1AsP0WK47DdiplolGAxQPMEH3HMN4BYKkPkyJMpvIKtd7aBzI1s92IJSi3NT6I5JYfMQWkBRwk/1t8cOJlaeZlP/U/+rpsXA2VkDYZA7m75thyg64sYap2kDhtHqLRF+JuaPTHY6GK2zGPBPje0MIOfL6G+nl7tAsE2PPaJhRfnLVxI+Pm5Tq+97b9qm3MsP+rHPWFDy+4GvPDQKvvkq5UsWiA28zWiOkKLF6Z9mn9gdtnDnURmwiOtnQUemDqgmQP0g6XrRxKn/OOB13G19r/Np3jEFQrVF6O77FJjdjwgFloVv6PSk/DlFgV7VoWxp4lQlQrHJSPHnOMVTWZP3XVdiEQRdJYIp2rl9o+ZY82fumIwjMfbM6wzN7Op+LMQoOkJhMlsawjhMXcqTrfcK+OR14="
   email:
     recipients:
       - mirichi5597@hotmail.com
