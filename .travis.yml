@@ -14,8 +14,8 @@ notifications:
     recipients:
       - mirichi5597@hotmail.com
       - miriamnavamucino@gmail.com
-      on_success: always
-      on_failure: always
+    on_success: always
+    on_failure: always
 deploy:
   provider: pages
   skip_cleanup: true
