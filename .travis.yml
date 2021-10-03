@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: claseslaboratoria:fPmbi82fDSRE3avWKiwEtaKq
   email:
     recipients:
       - mirichi5597@hotmail.com
